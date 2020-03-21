@@ -32,7 +32,7 @@ custom_proxy_group=🇺🇲 美国节点`url-test`(美|波特兰|达拉斯|俄�
 custom_proxy_group=📌 手动切换`select`.*
 custom_proxy_group=📌 手动切换-2`select`.*
 custom_proxy_group=📌 手动切换-3`select`.*
-custom_proxy_group=✈️ 自动选择-隧道`url-test`[隧道][0.1]`http://www.gstatic.com/generate_204`400
+custom_proxy_group=✈️ 自动选择-隧道`url-test`(上海|北京|徐州|常州).+0\.1`http://www.gstatic.com/generate_204`400
 custom_proxy_group=🎥 奈非节点`select`(NF|解锁|Netflix|NETFLIX)
 custom_proxy_group=🛑 拦截连接`select`[]REJECT`[]DIRECT
 ;设置分组标志位
