@@ -33,5 +33,13 @@ payload:
   - DOMAIN-SUFFIX,aip.scitation.org
   - DOMAIN-SUFFIX,cambridge.org
   - DOMAIN-SUFFIX,dl.acm.org
-  - DOMAIN-FUFFIX,parsec.app
+  - DOMAIN-SUFFIX,parsec.app
+  - PROCESS-NAME,parsecd.exe
+  
+
+  
+
+
+  
+
   
