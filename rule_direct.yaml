@@ -27,6 +27,7 @@ payload:
   # JSTOR 旗下
   - DOMAIN-SUFFIX,jstor.org	
   # 其他
+  - DOMAIN-SUFFIX,ametsoc.org
   - DOMAIN-SUFFIX,aps.org
   - DOMAIN-SUFFIX,acs.org
   - DOMAIN-SUFFIX,iop.org
