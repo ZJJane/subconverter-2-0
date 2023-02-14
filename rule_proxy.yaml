@@ -3,8 +3,8 @@ payload:
   - DOMAIN,ees.elsevier.com
   - DOMAIN-KEYWORD,sci-hub
   # Others
-  - DOMAIN-KEYWORD,jmsooo
-  - DOMAIN-KEYWORD,emby
+  #- DOMAIN-KEYWORD,jmsooo
+  #- DOMAIN-KEYWORD,emby
   - DOMAIN,dictionary.cambridge.org
 
 
