@@ -6,5 +6,5 @@ payload:
   #- DOMAIN-KEYWORD,jmsooo
   #- DOMAIN-KEYWORD,emby
   - DOMAIN,dictionary.cambridge.org
-
+  - DOMAIN,openai.com
 
