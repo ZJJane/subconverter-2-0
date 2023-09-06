@@ -7,4 +7,5 @@ payload:
   #- DOMAIN-KEYWORD,emby
   - DOMAIN,dictionary.cambridge.org
   - DOMAIN,openai.com
+  - DOMAIN,bing.com
 
