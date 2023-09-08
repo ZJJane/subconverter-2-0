@@ -8,4 +8,5 @@ payload:
   - DOMAIN,dictionary.cambridge.org
   - DOMAIN,openai.com
   - DOMAIN,bing.com
+  - PROCESS-NAME,msedge.exe
 
