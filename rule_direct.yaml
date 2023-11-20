@@ -36,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,dl.acm.org
   - DOMAIN-SUFFIX,parsec.app
   - PROCESS-NAME,parsecd.exe
+  - DOMAIN-SUFFIX,dcg.microsoft.com 
   
 
   
